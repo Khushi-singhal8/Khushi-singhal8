@@ -1,155 +1,133 @@
-<!-- TOP BANNER -->
+<!-- HEADER BANNER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Khushi%20Singhal&fontColor=ffffff&fontSize=55&animation=fadeIn"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Khushi%20Singhal&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-<div align="center">
+---
 
 # Khushi Singhal here 🔥
 
 ### Namaste 🙏 I'm Khushi Singhal
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=600&color=00E7FF&center=true&vCenter=true&width=700&lines=AI+Developer;Frontend+Developer;React+%7C+Java+%7C+Python;Building+AI+Powered+Applications"/>
-
-</div>
-
----
-
-# 🌙 About Me
-
-💻 Started my journey with **Software Development & Web Development**
-
-🚀 Currently building **AI powered applications and full stack projects**
-
-🌐 Skilled in **Frontend Development using React**
-
-⚙️ Backend experience with **Java, Spring Boot, FastAPI**
-
-🤖 Interested in **Artificial Intelligence, Machine Learning, LLM Apps**
-
-📚 Always learning new technologies and building real projects
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Developer;Frontend+Developer;React+%7C+Java+%7C+Python;Building+AI+Applications"/>
+</p>
 
 ---
 
-# 📬 Connect With Me
+# 📖 About Me
 
-<div align="center">
+🚀 Began my journey with **Software Development & Web Development**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khushi%20Singhal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khushi-singhal-1b0282306)
+💻 I focus on **Frontend development and building modern web applications**
 
-[![Gmail](https://img.shields.io/badge/Gmail-singhalkhushi198%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:singhalkhushi198@gmail.com)
+⚙️ Backend experience with **Java, Spring Boot and FastAPI**
 
-[![GitHub](https://img.shields.io/badge/GitHub-KhushiSinghal-black?style=for-the-badge&logo=github)](https://github.com/KhushiSinghal)
+🤖 Interested in **Artificial Intelligence, Machine Learning, LLM Applications**
 
-</div>
+🌱 Currently learning **advanced AI systems and full stack architecture**
 
 ---
 
-# 🧠 Languages & Tools I Have Placed My Hands On
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,python,java,spring,nodejs,fastapi,mongodb,mysql,git,github,vscode"/>
+<a href="https://www.linkedin.com/in/khushi-singhal-1b0282306">
+<img src="https://img.shields.io/badge/LinkedIn-Khushi%20Singhal-blue?style=for-the-badge&logo=linkedin">
+</a>
 
-</div>
+<a href="mailto:singhalkhushi198@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-singhalkhushi198%40gmail.com-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/KhushiSinghal">
+<img src="https://img.shields.io/badge/GitHub-KhushiSinghal-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 💻 Languages & Tools I Have Placed My Hands On
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,java,spring,nodejs,fastapi,mongodb,mysql,git,github,vscode"/>
+
+</p>
 
 ---
 
 # ⚡ GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KhushiSinghal&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KhushiSinghal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiSinghal&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhushiSinghal&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=KhushiSinghal&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=KhushiSinghal&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 📊 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhushiSinghal&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🛠 Tech Stack
+# 🏆 GitHub Achievements
 
-### Frontend
-
-`React` `Next.js` `HTML` `CSS` `JavaScript` `TailwindCSS`
-
-### Backend
-
-`Java` `Spring Boot` `Node.js` `FastAPI`
-
-### AI / ML
-
-`Python` `LangChain` `OpenAI API` `HuggingFace`
-
-### Databases
-
-`MongoDB` `MySQL` `PostgreSQL`
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|------|-------------|
-| LawBuddy | AI assistant explaining Indian law |
-| MedGen AI | AI powered medical assistant |
-| AI Resume Analyzer | Resume analysis using LLM |
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=KhushiSinghal&theme=tokyonight&no-frame=true&column=7"/>
 
-</div>
+</p>
 
 ---
 
 # 💬 Random Dev Quote
 
-<div align="center">
+<p align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+</p>
 
 ---
 
 # ⭐ Support Me
 
-If you like my projects give them a ⭐
+If you like my work give my repositories a ⭐
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2c5364,50:203a43,100:0f2027&section=footer"/>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=150&section=footer"/>
+</p>
