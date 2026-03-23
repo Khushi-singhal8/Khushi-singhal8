@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXc4dnpxbnp5aDZ6aGllM3RheTk0MGN6cGphdWU5eG82Z3p1NDNvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="350"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVjenIxazY3NHV5ZWpkbHE1NWZpNWU3d3dzdzVxaHpmeXN5NjJwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="350"/>
 </p>
 
 <!-- Top Banner -->
@@ -125,11 +125,11 @@ This profile is a playground of my creativity and technology! 😄
 
 ## 📊 LeetCode Card
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ANMOL_KANKARWAL?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/6jPHm3EfoQ?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/ANMOL_KANKARWAL/">
+  <a href="https://leetcode.com/u/6jPHm3EfoQ/">
     <img src="https://img.shields.io/badge/View%20My%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
