@@ -8,8 +8,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20To%20My%20Creative%20Space&fontSize=36&fontColor=fff&animation=twinkling" width="100%"/>
 </p>
 
-<h1 align="center">🚀 Hi, I'm <b>Anmol Kankarwal</b></h1>
-<h3 align="center">AI & Java Developer | Building Real-World AI Applications</h3>
+<h1 align="center">🚀 Hi, I'm <b>Khushi Singhal</b></h1>
+<h3 align="center">Frontend Developer | Building Real-World Web Applications</h3>
 
 ---
 
@@ -23,11 +23,11 @@ This profile is a playground of my creativity and technology! 😄
 
 # 🎯 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/anmol-kankarwal-29ab32327">
+  <a href="https://www.linkedin.com/in/khushi-singhal-1b0282306/">
     <img src="https://img.shields.io/badge/LinkedIn-0077ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:akankarwal69@gmail.com">
+  <a href="mailto:singhalkhushi198@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d93025?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
@@ -40,7 +40,7 @@ This profile is a playground of my creativity and technology! 😄
 
 # 🎨 Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,tensorflow,pytorch,numpy,matplotlib,pandas&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,git,github,react,nodejs,express,tensorflow&theme=light" />
 </p>
 
 ---
