@@ -81,42 +81,42 @@ This profile is a playground of my creativity and technology! 😄
 
 ## 💙 Main Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnmolKankarwal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Khushi-singhal8&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
 ## 💚 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolKankarwal&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-singhal8&layout=compact&theme=gruvbox" />
 </p>
 
 ---
 
 ## ❤️ GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnmolKankarwal&theme=highcontrast" />
+  <img src="https://streak-stats.demolab.com?user=Khushi-singhal8&theme=highcontrast" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnmolKankarwal&theme=juicyfresh&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Khushi-singhal8&theme=juicyfresh&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 ## 👁️ Visitor Count  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnmolKankarwal&color=ff00ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Khushi-singhal8&color=ff00ff&style=for-the-badge" />
 </p>
 
 ---
 
 # 📈 Activity Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolKankarwal&theme=dracula&bg_color=000000&color=39ff14&line=ff0099&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushi-singhal8&theme=dracula&bg_color=000000&color=39ff14&line=ff0099&point=ffffff" />
 </p>
 
 ---
@@ -151,7 +151,7 @@ This profile is a playground of my creativity and technology! 😄
 
 # 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnmolKankarwal/AnmolKankarwal/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Khushi-singhal8/Khushi-singhal8/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
